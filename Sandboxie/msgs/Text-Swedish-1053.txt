@@ -5,15 +5,15 @@
 #----------------------------------------------------------------------------
 
 1101;evt;inf;01
-SBIE1101 Sandboxie driver (SbieDrv) version %2 inläst
+SBIE1101 Sandboxie-drivrutin (SbieDrv) version %2 inläst
 .
 
 1102;evt;inf;01
-SBIE1102 Sandboxie driver (SbieDrv) stänger
+SBIE1102 Sandboxie-drivrutin (SbieDrv) stängs av
 .
 
 1103;evt;err;01
-SBIE1103 Sandboxie driver (SbieDrv) version %2 kunde inte starta
+SBIE1103 Sandboxie-drivrutin (SbieDrv) version %2 kunde inte starta
 .
 
 1104;evt;err;01
@@ -37,15 +37,15 @@ SBIE1108 Procedur %2 kunde inte analyseras
 .
 
 1109;evt;err;01
-SBIE1109 Ogiltig licens-information:  %2
+SBIE1109 Ogiltig licensinformation:  %2
 .
 
 1110;evt;err;01
-SBIE1110 Kan inte hejda typ %3, error %2
+SBIE1110 Kan inte fånga upp typ %3, error %2
 .
 
 1111;evt;err;01
-SBIE1111 System DLL %3 kunde inte läsas in %2
+SBIE1111 System-DLL %3 kunde inte läsas in %2
 .
 
 1112;evt;err;01
@@ -61,11 +61,11 @@ SBIE1114 Kan inte hitta Zw system service, orsak %2
 .
 
 1116;evt;err;01
-SBIE1116 Drivrutinen kunde inte registrera processen meddelande rutin %2
+SBIE1116 Drivrutinen kunde inte registrera processen för meddelanderutiner %2
 .
 
 1119;evt;err;01
-SBIE1119 Kan inte skapa API enhet %2
+SBIE1119 Kan inte skapa API-enhet %2
 .
 
 1120;evt;err;01
@@ -91,7 +91,7 @@ SBIE1151 Kan inte utföra instruktion %2
 .
 
 1152;evt;pop;err;01
-SBIE1152 Trampolin tilldelning misslyckades %2
+SBIE1152 Trampolin-tilldelning misslyckades %2
 .
 
 1153;evt;pop;err;01
@@ -269,7 +269,7 @@ SBIE1410 Detta meddelande är ett tecken på ett fel i filen Templates.ini
 .
 
 1411;evt;pop;wrn;01
-SBIE1411 Sandbox %2 anger en okänd mall %3
+SBIE1411 Sandlådan %2 använder en okänd mall %3
 .
 
 1412;evt;pop;err;01
